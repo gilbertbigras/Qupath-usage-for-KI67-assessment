@@ -1,5 +1,10 @@
-# Qupath-usage-for-KI67-assessment
-Qupath usage for KI67 assessment
+# Qupath usage for KI67 assessment
+
+## First step
+first step
+## Second step
+Second step
+
 Creating a new project
 
 This involves multiple steps a) Image acquisition of a white field without oversaturation and white balance of RGB channels b) Image acquisition of a black field c) Image acquisition of the tissue specimen and d) the correction itself.
