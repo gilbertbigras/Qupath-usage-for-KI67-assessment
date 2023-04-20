@@ -4,9 +4,9 @@ Link to Qupath installation installation [link](https://qupath.readthedocs.io/en
 
 -Creating a project with a new empty directory and adding cases (whole slide images) (3:06)
 
--Inspecting color spaces with Brignest/Contrast function (4:45)
+*Inspecting color spaces with Brignest/Contrast function (4:45)
 
--Calibrating the vectors of Hematoxylin and Dab (5:42)
++Calibrating the vectors of Hematoxylin and Dab (5:42)
 
 -Tissue annotation (7:11)
 
