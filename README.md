@@ -2,9 +2,8 @@
 Link to the [CBQA video:](https://youtu.be/Yemx9tIqRs0)
 Link to Qupath installation installation [link](https://qupath.readthedocs.io/en/0.4/docs/intro/installation.html#installation)
 
--Creating a project with a new empty directory and adding cases (whole slide images) (3:06)
-
-*Inspecting color spaces with Brignest/Contrast function (4:45)
+- Creating a project with a new empty directory and adding cases (whole slide images) (3:06)
+- Inspecting color spaces with Brignest/Contrast function (4:45)
 
 +Calibrating the vectors of Hematoxylin and Dab (5:42)
 
